@@ -1,4 +1,4 @@
-# ipynb-to-pdf-converter
+# ipynb-to-pdf-with-plotly-converter
 Convert any Google Colab notebook (`.ipynb`) into a **high-quality PDF** — including **Plotly graphs in HD (PNG export)**.  
 
 ---
@@ -16,6 +16,11 @@ Convert any Google Colab notebook (`.ipynb`) into a **high-quality PDF** — inc
 
 1. **Open in Google Colab**
    - Upload this notebook to your Google Colab environment.
+   - OR click here:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ZarethAbigail/ipynb-to-pdf-with-plotly-converter/blob/main/ipynb-to-pdf-with-plotly-converter.ipynb
+)
+
 
 2. **Run the first cell**
    - Installs dependencies automatically (Plotly, Kaleido, nbconvert, Pyppeteer).
@@ -58,3 +63,17 @@ With technical guidance from **ChatGPT (OpenAI)** to debug and optimize the expo
 Released under the **MIT License** — free to use and modify for educational or research purposes, with attribution.
 
 ---
+
+## Example Outputs
+
+Below are sample PDFs generated with this converter:
+
+- [Example with Kaggle and Plotly](Example-with-kaggle-and-plotly.pdf)
+- [Example with CSV and Plotly](Example-with-csv-and-plotly.pdf)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ZarethAbigail/ipynb-to-pdf-with-plotly-converter/blob/main/ipynb-to-pdf-with-plotly-converter.ipynb)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Made with ❤️ by Zareth](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Zareth-blue)](https://www.linkedin.com/in/zarethabigailrdz/)
+
+
