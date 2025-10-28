@@ -55,7 +55,7 @@ https://colab.research.google.com/github/ZarethAbigail/ipynb-to-pdf-with-plotly-
 
 Developed by **Zareth Abigail Rodríguez Reyes**  
 Created as a personal tool for exporting academic and analytical notebooks to professional-grade PDFs.  
-With technical guidance from **ChatGPT (OpenAI)** to debug and optimize the export pipeline.
+With technical guidance from **ChatGPT (OpenAI)**.
 
 ---
 
